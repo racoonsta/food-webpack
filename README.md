@@ -5,13 +5,18 @@ JS & webpack learning
 
 1st console:
 
+yarn / npm i
+
 Run build: 
-yarn build
+
+yarn build / npm run build
 
 Serve:
-yarn start
+
+yarn start / npm run start
 
 second console:
 
 Server up:
-yarn server
+
+yarn server / npm run server
